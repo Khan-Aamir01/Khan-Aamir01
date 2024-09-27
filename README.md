@@ -31,6 +31,6 @@ Hi, I'm **Khan Mohd Aamir**, a passionate Full stack developer. I enjoy building
 ## 🔝 Top Contributed Repo
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=Khan-Aamir01&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=MohdSahbaz&icon=5&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Khan-Aamir01&icon=5&color=0)](https://visitcount.itsvg.in)
 
 </div>
