@@ -28,9 +28,6 @@ Hi, I'm **Khan Mohd Aamir**, a passionate Full stack developer. I enjoy building
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khan-Aamir01&theme=radical&hide_border=true)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khan-Aamir01&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Khan-Aamir01&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 [![Profile Views](https://visitcount.itsvg.in/api?id=Khan-Aamir01&icon=5&color=0)](https://visitcount.itsvg.in)
 
 </div>
